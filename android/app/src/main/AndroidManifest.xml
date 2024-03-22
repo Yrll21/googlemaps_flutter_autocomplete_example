@@ -3,9 +3,10 @@
         android:label="autocomplete_example"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
+        <!-- put your API KEY here-->
         <meta-data
         android:name="com.google.android.geo.API_KEY"
-        android:value="AIzaSyCoeQGGbzMjhMf8G3xwJ2KtEMoGndZ6ktQ"/>
+        android:value="API_KEY"/>
         <activity
             android:name=".MainActivity"
             android:exported="true"

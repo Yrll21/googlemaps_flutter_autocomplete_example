@@ -7,7 +7,7 @@ import 'package:google_maps_flutter/google_maps_flutter.dart';
 // add http package
 import 'package:http/http.dart' as http;
 
-const apiKey = "API_KEY";
+const apiKey = "AIzaSyCoeQGGbzMjhMf8G3xwJ2KtEMoGndZ6ktQ";
 
 void main() {
   runApp(const MyApp());
